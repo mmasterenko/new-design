@@ -110,6 +110,8 @@ https://onlinecarservice.ru/panel/profile
 Здесь такой же шаблон как для:
 https://onlinecarservice.ru/panel/tuning
 
+![скриншот](./images/tuning_3.jpg)
+
 
 ## 11. История
 
@@ -118,8 +120,7 @@ https://onlinecarservice.ru/panel/tuning
 Здесь такой же шаблон как для:
 https://onlinecarservice.ru/panel/history
 
-см скриншоты:
-https://github.com/mmasterenko/new-design/tree/main/images
+![скриншот](./images/history_1.jpg)
 
 
 ## 12. Регистрация
@@ -137,4 +138,9 @@ https://github.com/mmasterenko/new-design/tree/main/images
 ## 13. Логин
 
 Да, пользователь может войти как с помощью личного пароля, так и одноразового.
+
+
+## скриншоты
+
+https://github.com/mmasterenko/new-design/tree/main/images
 
