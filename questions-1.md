@@ -5,8 +5,8 @@
 
 **Menu:**
 
-Advantages
-Contacts
+- Advantages
+- Contacts
 
 Слоган: Tune it fast.
 
@@ -43,7 +43,7 @@ Contacts
 
 ## 2. Восстановление пароля
 
-всё верно
+Пользователь вводит почту, на нее отправится ссылка со сбросом пароля
 
 ## 3. Шаблон
 
@@ -53,10 +53,10 @@ Contacts
 - шаблон для зарегистрированных пользователей
 
 Когда пользователь логинится, в дизайне должен быть акцент. Например, верхний navigation-bar выделяется цветом и там появляются ссылки:
-- Balance 100 $
-- settings icon
-- email (login)
-- tuning - ссылка на страницу /panel/tuning
+- `Balance: 100 $`        - ссылка на страницу payment
+- `user@email.com`        - просто логин (не ссылка)
+- `<settings_icon>`       - ссылка на страницу profile
+- `Tuning`                - ссылка на страницу tuning
 
 ## 4. Пользовательское соглашение 
 
@@ -70,6 +70,9 @@ Support vehicles - этот раздел не нужен
 
 
 ## 7. Контакты
+
+Пока такие, но они поменяются в будущем.
+Возможно банковские реквизиты сократим до номера счёта.
 
 ```
 ORGANIZATION IE Plyshevskij Alexander Sergeevich
@@ -115,7 +118,8 @@ https://onlinecarservice.ru/panel/tuning
 Здесь такой же шаблон как для:
 https://onlinecarservice.ru/panel/history
 
-см скриншоты
+см скриншоты:
+https://github.com/mmasterenko/new-design/tree/main/images
 
 
 ## 12. Регистрация
